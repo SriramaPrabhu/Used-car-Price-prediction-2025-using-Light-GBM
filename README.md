@@ -15,7 +15,7 @@ The app is powered by a **Machine Learning model (LightGBM)** trained on the use
 🌐 **Deployment**
 
 This project is deployed on Streamlit Community Cloud.
-Click below to try the app: https://used-car-price-predictor-2025.streamlit.app/
+Click below to try the app: https://used-car-price-prediction-2025-using-light-gbm.streamlit.app/
 
 🛠 **Tech Stack**
 Python
